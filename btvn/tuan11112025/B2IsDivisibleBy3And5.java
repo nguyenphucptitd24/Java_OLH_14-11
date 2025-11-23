@@ -2,7 +2,7 @@ package javacore.btvn.tuan11112025;
 
 import java.util.Scanner;
 
-public class B2_KiemTra3_5 {
+public class B2IsDivisibleBy3And5 {
 
   public static int check(int a) {
     if (a % 3 == 0 || a % 5 == 0) {

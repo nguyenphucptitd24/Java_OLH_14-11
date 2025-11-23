@@ -2,7 +2,7 @@ package javacore.btvn.tuan11112025;
 
 import java.util.Scanner;
 
-public class B9_Amstrong {
+public class B9ArmstrongNumber {
   public static boolean Amstrong(long n) {
     long res = 0;
     long tmp = n;
